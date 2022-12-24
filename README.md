@@ -1,1 +1,1 @@
-# Add a folder called "public" to make this work
+# PDF Tools - Simplest PDF Merger
